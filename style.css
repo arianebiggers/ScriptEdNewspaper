@@ -2,13 +2,15 @@
     float: left;
     width: 16%;
     text-align: center;
-    border-color: #ffb84d;
+    color: navy;
+    border: #ffb84d 5px solid;
+    border-width: 5px;
 }
 #nav{
     padding: 20px 0 20px 0;
     margin-bottom: 10px;
 }
-title{
+h1{
     text-align: center;
     font-family: Impact, fantasy;
     color: #ffb84d;
@@ -21,6 +23,7 @@ title{
 }
 img{
     width: 100%;
+    border:#cc7a00 5px dashed;
 }
 #class-photo{
     float: right;
@@ -38,11 +41,30 @@ img{
 }
 .footer-item{
     float:left;
-    width: 25%;
+    width: 24.1%;
     text-align: center;
+    color:#cc7a00;
+    border: navy 5px solid;
 }
 #footer{
     clear:both;
     padding: 20px 0 20px 0;
     margin-bottom: 10px;
+}
+h4{
+    color:#ffb84d;
+}
+p{
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    color: navy;
+}
+li{
+    color:navy;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    text-decoration: underline ;
+    
+}
+.caption{
+    color:#cc7a00;
+    text-decoration: underline;
 }
