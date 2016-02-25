@@ -5,6 +5,7 @@
     color: navy;
     border: #ffb84d 5px solid;
     border-width: 5px;
+    box-sizing: border-box;
 }
 #nav{
     padding: 20px 0 20px 0;
@@ -45,6 +46,7 @@ img{
     text-align: center;
     color:#cc7a00;
     border: navy 5px solid;
+    box-sizing: border-box;
 }
 #footer{
     clear:both;
